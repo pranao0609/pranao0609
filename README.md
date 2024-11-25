@@ -34,9 +34,7 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40"/> 
 </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/tiangolo/public-files/master/logos/fastapi-logo.png" alt="fastapi" width="40" height="40"/> 
-</a>
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
@@ -76,26 +74,6 @@
 </p>
 
 
----
-
-<h3 align="left">Interactive Stats:</h3>
-
-<h4 align="left">LeetCode Stats:</h4>
-<p align="left">
-  <img src="https://leetcode-stats-card.vercel.app/api?username=pranaoadhau&theme=dark" alt="LeetCode Stats" />
-</p>
-
-<h4 align="left">HackerRank Badges:</h4>
-<p align="left">
-  <a href="https://www.hackerrank.com/pranaoadhau">
-    <img src="https://hrcdn.net/community-frontend/assets/badges/skill/cpp.svg" alt="C++ Badge" height="40" />
-  </a>
-  <a href="https://www.hackerrank.com/pranaoadhau">
-    <img src="https://hrcdn.net/community-frontend/assets/badges/skill/problem_solving.svg" alt="Problem Solving Badge" height="40" />
-  </a>
-</p>
-
----
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranao0609&show_icons=true&locale=en&layout=compact" alt="pranao0609" /></p>
 
