@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranao Adhau</h1>
-<h3 align="center">I’m interested in AI, Machine Learning, NLP, Deep Learning, Generative AI, and mastering algorithms.</h3>
+<h3 align="center">I am interested in AI, Machine Learning, NLP, Deep Learning, Generative AI, and mastering algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranao0609&label=Profile%20views&color=0e75b6&style=flat" alt="pranao0609" /> </p>
 
