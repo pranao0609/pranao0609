@@ -1,80 +1,25 @@
 <h1 align="center">Hi 👋, I'm Pranao Adhau</h1>
-<h3 align="center">I am interested in AI, Machine Learning, NLP, Deep Learning, Generative AI, and mastering algorithms.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranao0609&label=Profile%20views&color=0e75b6&style=flat" alt="pranao0609" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranao0609" alt="pranao0609" /></a> </p>
-
-- 🌱 I’m currently learning **AI, ML, NLP, DL, and Data Structures and Algorithms (DSA) using C++.**
-
-- 👯 I’m looking to collaborate on **projects involving Generative AI, innovative AI applications, cutting-edge ML models, or algorithmic problem-solving.**
-
-- 📫 How to reach me **pranaoadhau@gmail.com**
-
-- ⚡ Fun fact **I enjoy solving complex problems and bringing ideas to life through code and AI.**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/pranaoadhau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pranaoadhau" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pranaoadhau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pranaoadhau" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pranaoadhau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranaoadhau" height="30" width="40" /></a>
-</p>
-
----
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40"/> 
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> 
-</a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-</a>
-</p>
+# 💫 About Me:
+👯 I’m looking to collaborate on: Generative AI projects, innovative AI applications, cutting-edge ML models, and algorithmic problem-solving challenges.<br>🤝 I’m looking for help with: Advanced techniques in Deep Learning and NLP.<br>🌱 I’m currently learning: AI, ML, NLP, Deep Learning, and DSA (solved 100+ questions in C++).<br>💬 Ask me about: Python, SQL, PostgreSQL, MongoDB, Python frameworks (FastAPI, Flask, Streamlit), and libraries (pandas, numpy, matplotlib, seaborn).<br>⚡ Fun fact: I enjoy solving complex problems and bringing ideas to life through code and AI!
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaoadhau) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranao0609&show_icons=true&locale=en&layout=compact" alt="pranao0609" /></p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pranao0609&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranao0609&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranao0609&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranao0609&show_icons=true&locale=en" alt="pranao0609" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pranao0609&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pranao0609&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
