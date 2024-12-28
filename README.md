@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranao Adhau</h1>
-# 💫 About Me:
+💫 About Me:
 👯 I’m looking to collaborate on: Generative AI projects, innovative AI applications, cutting-edge ML models, and algorithmic problem-solving challenges.<br>🤝 I’m looking for help with: Advanced techniques in Deep Learning and NLP.<br>🌱 I’m currently learning: AI, ML, NLP, Deep Learning, and DSA (solved 100+ questions in C++).<br>💬 Ask me about: Python, SQL, PostgreSQL, MongoDB, Python frameworks (FastAPI, Flask, Streamlit), and libraries (pandas, numpy, matplotlib, seaborn).<br>⚡ Fun fact: I enjoy solving complex problems and bringing ideas to life through code and AI!
 
 
